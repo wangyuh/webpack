@@ -1,3 +1,2 @@
-function helloword(){
-	
-}
+function helloworld(){alert("wang")}
+helloworld();
